@@ -1,3 +1,5 @@
+
+"use server"
 import { getlogedUserAction } from '@/action'
 import React from 'react'
 
